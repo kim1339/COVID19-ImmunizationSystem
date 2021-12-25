@@ -2,7 +2,7 @@
 
 This project is a [website](https://www.students.cs.ubc.ca/~krostin/index.php) that simulates a COVID-19 immunization system from multiple perspectives (i.e. from the POVs of the general public and staff). 
 
-![GUI](https://media.github.students.cs.ubc.ca/user/6172/files/77df4e80-cec3-11eb-87d2-8e5523bead42)
+![GUI](https://github.com/kim1339/COVID19-ImmunizationSystem/blob/main/index.PNG?raw=true)
 
 The project is written in PHP with an HTML/CSS front-end and an Oracle database backend hosted on the UBC undergrad CS servers.
 
