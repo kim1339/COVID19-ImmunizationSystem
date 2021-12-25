@@ -1,5 +1,3 @@
-<!-- Some of the php code used was inspired by UBC CPSC 304 Tutorial #4 -->
-
 <!DOCTYPE html>
 <html>
     <head>
