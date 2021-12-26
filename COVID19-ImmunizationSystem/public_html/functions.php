@@ -50,7 +50,7 @@
 
     function connectToDB() {
         global $db_conn;
-        $db_conn = OCILogon("ora_krostin", "a88540570", "dbhost.students.cs.ubc.ca:1522/stu");
+        $db_conn = OCILogon("username", "password", "dbhost.students.cs.ubc.ca:1522/stu");
         if ($db_conn) {
             return true;
         } else {
